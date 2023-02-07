@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZebraFang
 - 👀 I’m interested in learning to become a better designer and JavaScript developer.
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript and React
 - 💞️ I’m looking to collaborate on anything at a beginner level
 - 📫 How to reach me ...
 
